@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+
+}
+
+* {
+    outline: 2px solid red;
+  }
+#headlineDiv , #textDiv{
+    padding: 10%;
+    border: 1px solid;
+    
+}  
+h1 , p{
+    padding: 2%;
+    text-align: center;
+}
